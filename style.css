@@ -1,0 +1,7 @@
+body {
+    background:linear-gradient(rgb(71, 71, 154),rgb(35, 168, 234));
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+  }
